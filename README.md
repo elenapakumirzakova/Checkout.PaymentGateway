@@ -122,6 +122,8 @@ To switch Bank integration, please update `appsettings.json`:
 What supposed to be done next:
   - Authorization and authentication
   - Errorhandler
+  - Unit Tests
+  - CI Deploy (Cloud preffered)
 
 ## Contributing
 If you'd like to contribute, please fork the repository and use a feature branch.
