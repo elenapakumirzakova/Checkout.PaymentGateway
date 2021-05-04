@@ -1,4 +1,4 @@
-# Checkout.PaymentGateaway
+# Checkout.PaymentGateway
 
 ## What is PaymentGateway?
 
